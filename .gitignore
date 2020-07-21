@@ -50,6 +50,9 @@ typings/
 # Optional npm cache directory
 .npm
 
+# personal access token of GitHub Packages
+.npmrc
+
 # Optional eslint cache
 .eslintcache
 
