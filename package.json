@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Andre Carvalho",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
