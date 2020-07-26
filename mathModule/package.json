@@ -1,0 +1,16 @@
+{
+  "name": "@Practice-of-PUC-course/unidade-2-arquitetura-nodejs",
+  "version": "1.0.1",
+  "description": "A practical exercise in unit 2",
+  "main": "fourOperations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andre Carvalho",
+  "license": "ISC",
+  "repository": "https://github.com/Practice-of-PUC-course/unidade-2-arquitetura-nodejs.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/andre-carvalho"
+  }
+}
